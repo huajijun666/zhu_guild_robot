@@ -16,11 +16,11 @@
   "type": "module",
   "dependencies": {
     "art-template": "^4.13.2",
-    "body-parser": "^1.20.3",
+    "body-parser": "^1.20.4",
     "bull": "^4.12.2",
     "bull-arena": "^4.4.2",
     "chalk": "^5.2.0",
-    "express": "^4.21.2",
+    "express": "^4.22.0",
     "form-data": "^4.0.4",
     "ioredis": "^5.3.2",
     "log4js": "^6.9.1",
